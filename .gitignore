@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env*
+venv/
+venv\
+ENV/
+.env.local
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# React build output
+ai-form-builder/build/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
